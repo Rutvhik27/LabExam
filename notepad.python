@@ -1,4 +1,4 @@
-def merge_sort(arr):
+def LabExamt(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
         left_half = arr[:mid]

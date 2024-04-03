@@ -1,4 +1,4 @@
-def LabExamt(arr):
+def LabExam(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
         left_half = arr[:mid]
